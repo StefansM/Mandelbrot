@@ -1,4 +1,3 @@
-#define _POSIX_C_SOURCE 2
 #include <stdlib.h>
 #include <stdio.h>
 #include <complex.h>
